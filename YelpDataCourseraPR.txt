@@ -140,7 +140,7 @@ Order by sum(review_count) desc;
 | Henderson       |             10871 |
 | Tempe           |             10504 |
 | Pittsburgh      |              9798 |
-| Montr¨¦al        |              9448 |
+| MontrÂ¨Â¦al        |              9448 |
 | Chandler        |              8112 |
 | Mesa            |              6875 |
 | Gilbert         |              6380 |
